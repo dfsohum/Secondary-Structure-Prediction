@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AAA
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inp
+comment2.target=void\ Scale(java.lang.String)
+comment3.params=inp
+comment3.target=void\ UD(java.lang.String)
+comment4.params=inp
+comment4.target=void\ Converter(java.lang.String)
+comment5.params=inp
+comment5.target=void\ ConverterNTJ(java.lang.String)
+comment6.params=inp
+comment6.target=void\ ConverterPG(java.lang.String)
+comment7.params=ret
+comment7.target=void\ Pattern1(java.lang.Double[])
+comment8.params=xon
+comment8.target=void\ Pattern2(java.lang.String)
+numComments=9
