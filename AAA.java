@@ -64,13 +64,12 @@ public class AAA
     }
     static void UD(String inp)
     {
-        //,"L","I","M","F","W","P","C","D","E","K","N","Q","R","S","T","Y","H"
         Scanner in = new Scanner(System.in);
         int i, j;
         double m = 0.0;
         String c = "";
         int l = inp.length();
-        String[] sc = {"G","A","V"};
+        String[] sc = {"G","A","V","L","I","M","F","W","P","C","D","E","K","N","Q","R","S","T","Y","H"};
         Double[] val = new Double[sc.length];
         Double[] scv = new Double[l];
         System.out.println("Enter the values in decimal format.");
